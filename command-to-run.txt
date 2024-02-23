@@ -1,0 +1,6 @@
+# to run java program 
+% javac SortedLinkedListAPP.java 
+% java SortedLinkedListAPP
+
+# generate java docs
+javadoc -d java-docs SortedLinkedListAPP.java 
